@@ -14,6 +14,8 @@ This project provides an implementation of an in-memory database with basic tran
    javac InMemoryDB.java
 
 3. **Run the Code**
+    
+    ```bash
     java InMemoryDB
 
 ## Suggestions for an Official Assignment
